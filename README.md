@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QVANTA — Quantum Computing Education SaaS (MVP)
 
 QVANTA is a production-grade, multi-tenant SaaS platform for interactive quantum computing education. The MVP ships with: structured auth, a 3D drag-drop circuit builder (React Three Fiber), synced Monaco Qiskit editor, Qiskit Aer simulation with measurement histograms, animated 3D Bloch spheres, a 3D virtual human AI tutor with lip-sync and optional Claude RAG, and Stripe Free/Pro tiers.
@@ -111,3 +112,7 @@ QVANTA is a production-grade, multi-tenant SaaS platform for interactive quantum
 | 8  | Per-qubit Bloch spheres; step-through animation shows |0⟩→|+⟩ after H                   | ✅      |
 | 9  | Mobile-responsive sidebar + Lite 2D SVG fallback toggle                                   | ✅      |
 | 10 | `npm -w @qvanta/types/ui build`, `npm -w api typecheck`, `npm -w web build` all exit 0    | ✅      |
+=======
+# QVANTA
+Interactive quantum learning platform: build circuits in a 3D/2D visual builder or Qiskit code (always in sync), run them on Qiskit Aer, view result histograms, and get circuit-aware AI tutoring that spots errors in your own circuit. Team Code Busters · SIH 2026
+>>>>>>> b44b2eb1858a2cc7d7aa698fc6553768ce7ed2c3
